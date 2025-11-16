@@ -1,3 +1,4 @@
+                               C PROGRAMMING
 This repository is a comprehensive collection of C programming examples, exercises, and projects designed to help learners understand the core concepts of the C language. Whether you are a beginner starting your programming journey or an intermediate developer looking to strengthen your fundamentals, this repository provides clear, organized, and practical code samples.
 
 Inside, you will find implementations of essential topics such as variables, data types, operators, control flow, loops, functions, pointers, arrays, strings, structures, dynamic memory allocation, file handling, and more. Each program is written with readability and simplicity in mind, making it easier to understand how C works at both low-level and high-level perspectives.
