@@ -1,6 +1,7 @@
 //1513. Number of Substrings With Only 1s
 
 #include <stdio.h>
+
 int numSub(char* s) 
 {
     long long MOD = 1000000007;
